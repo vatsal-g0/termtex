@@ -23,7 +23,7 @@ func main() {
 		font,
 		0,
 		0,
-		"TERMTEX",
+		"HELLO",
 	)
 
 	screen.Render()
