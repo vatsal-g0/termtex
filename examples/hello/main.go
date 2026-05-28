@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"termtex/lcd"
-	"termtex/textengine"
+	"github.com/vatsal-g0/termtex/lcd"
+	"github.com/vatsal-g0/termtex/textengine"
 )
 
 func main() {

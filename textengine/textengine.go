@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"os"
 
-	"termtex/lcd"
+	"github.com/vatsal-g0/termtex/lcd"
 )
 
 type Glyph struct {
