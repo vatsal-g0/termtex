@@ -1,0 +1,28 @@
+# Binaries
+*.exe
+*.out
+*.bin
+*.dll
+
+# Go build artifacts
+*.o
+*.a
+
+# Test cache
+*.test
+*.prof
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
